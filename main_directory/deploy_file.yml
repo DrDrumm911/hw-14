@@ -1,0 +1,6 @@
+---
+- name: Deploy file using file_deploy role
+  hosts: all
+  become: yes
+  roles:
+    - file_deploy
