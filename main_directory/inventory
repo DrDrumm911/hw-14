@@ -1,0 +1,5 @@
+[servers]
+server1 ansible_host=192.168.1.1
+server2 ansible_host=192.168.1.2
+
+# Replace 192.168.1.1 and 192.168.1.2 with the actual IP addresses of your servers
